@@ -180,7 +180,7 @@ def turtleLetter(letter,tur):
             tur.left(120)
             tur.forward(30)
             tur.pu()
-            tur.forward(6)
+            tur.forward(6) 
             tur.right(60)
             tur.forward(3)
             tur.pd()
